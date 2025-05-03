@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title>AnimLive</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <header>
+
+            <p class="name ">AnimLive</p>
+
+            <a class="a" href="">Новинки</a>
+            <a class="e" href="">Популярное</a>
+            <a class="r" href="">Информация</a>
+        </header>
+        <main>
+            <section class="pop">
+                <h1 class=" per">Популярное</h1>
+                <div class="me">
+                <div class="ima">
+                    <img src="https://storage.yandexcloud.net/otakuy-media/post_media/94c14bfe-da2b-11ee-8a27-32990db0672b">
+                </div>
+                <div class="rena">
+                    <img src="https://fast-anime.ru/storage/uploads/images/2024/04/16/GWj57eBRfUMu4nrsIgGDW3gScU0KXOy79w5eOEYj-334x_.jpg">
+                </div>
+                <div class="lena">
+                    <img src="https://cdn.ananasposter.ru/image/cache/catalog/poster/anime/80/22885-1000x830.jpg">
+                </div>
+                <div class="pena">
+                    <img src="https://shikimori.one/system/user_images_h/original/0aeb2fb835b8d9d6d63b5ae8/1a36411ac6bfa0643c675016d3eda8477a637481c12dc95387f5db7250977984.jpg">
+                    </div>
+                </div>
+            </section>
+            <section class=" ment">
+                <h1 class="per ">Новинки</h1>
+                <div class="hf">
+                <div class="d">
+                    <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/7/71/Ace_Attorney_TV_series.jpg/250px-Ace_Attorney_TV_series.jpg">
+                </div>
+
+
+                <div class="h">
+                    <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/96cb29ff-8611-4824-86f4-d26546649ace/600x900">
+                </div>
+
+
+                <div class="t"> 
+                    <img src="https://cdn.ananasposter.ru/image/cache/catalog/poster/mult/90/3809-290x290.jpg">
+                </div>
+
+
+                <div class="g">
+                    <img src="https://poster4.me/wp-content/uploads/2022/05/navsikaya-iz-doliny-vetrov_10-350x525.jpg">
+                </div>
+                </div>
+            </section >
+            <section class="mippo">
+                <h1 class="per">Информация</h1>
+                <div class="herr"></div>
+            </section>
+        </main>
+        <footer>
+        </footer>
+    </body>
+</html>
